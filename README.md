@@ -2,7 +2,7 @@
 Put art files in corresponding folders. Should be self explanitory. Feel free to resort/rename any files that may seem out of place.
 
 ### Demo Scene
-![Gameplay Screenshot](DemoScenes/gameplay.png)
+![Gameplay Screenshot](DemoScenes/download.png)
 
 ### Installation
 

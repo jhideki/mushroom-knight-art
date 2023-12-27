@@ -10,3 +10,5 @@ Put art files in corresponding folders. Feel free to resort/rename any files tha
 
    ```bash
    git clone https://github.com/jonathan-ami/mushroom-knight-art.git
+
+2. Navigate to folder and open files in your favourite editor

@@ -1,5 +1,5 @@
 # mushroom-knight-art
-Put art files in corresponding folders. Should be self explanitory. Feel free to resort/rename any files that may seem out of place.
+Put art files in corresponding folders. Feel free to resort/rename any files that may seem out of place.
 
 ### Demo Scene
 ![Gameplay Screenshot](DemoScenes/download.png)
